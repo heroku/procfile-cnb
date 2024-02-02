@@ -2,7 +2,7 @@ api = "0.8"
 
 [buildpack]
 id = "heroku/procfile"
-version = "0.0.0test"
+version = "0.0.9999"
 name = "Heroku Procfile"
 homepage = "https://github.com/heroku/procfile-cnb"
 description = "Heroku's Procfile buildpack."
